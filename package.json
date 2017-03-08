@@ -13,8 +13,12 @@
     "clear": "0.0.1",
     "fft-js": "0.0.11",
     "install": "^0.8.7",
+    "ndarray": "^1.0.18",
+    "ndarray-fft": "^1.0.3",
+    "ndarray-ops": "^1.2.2",
     "npm": "^4.3.0",
     "wav": "^1.0.1",
-    "wav-decoder": "^1.1.0"
+    "wav-decoder": "^1.1.0",
+    "zeros": "^1.0.0"
   }
 }
