@@ -12,6 +12,7 @@ const decode = fileName => {
         if (err) {
           return reject(err);
         }
+        console.log('file length ------>>', buffer.length)
         return resolve(buffer);
       });
     });

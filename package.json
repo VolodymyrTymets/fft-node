@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "install": "^0.8.7",
+    "lame": "^1.2.4",
+    "lodash": "^4.17.4",
+    "mic": "^2.1.1",
     "ndarray": "^1.0.18",
     "ndarray-fft": "^1.0.3",
-    "npm": "^4.3.0",
-    "wav": "^1.0.1",
-    "wav-decoder": "^1.1.0",
+    "npm": "^4.6.1",
   }
 }
