@@ -1,7 +1,6 @@
 const _ = require('lodash');
 const fft = require("ndarray-fft")
 const ndarray = require('ndarray');
-const math = require('mathjs');
 const record = require('./src/recorder');
 
 

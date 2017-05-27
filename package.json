@@ -9,11 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "audio-decode": "^1.2.5",
     "lame": "^1.2.4",
     "lodash": "^4.17.4",
     "mic": "^2.1.1",
     "ndarray": "^1.0.18",
     "ndarray-fft": "^1.0.3",
-    "npm": "^4.6.1",
+    "npm": "^4.6.1"
   }
 }
